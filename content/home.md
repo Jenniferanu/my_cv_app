@@ -4,11 +4,11 @@ draft = true
 
 # Contact
 
-Name;**Anyiache Jennifer Anubondem**
+Name:**Anyiache Jennifer Anubondem**
 
-Email;**Jennyanu130@gmail.com**
+Email:**Jennyanu130@gmail.com**
 
-Contact;+237620445627
+Contact:+237620445627
 
 # Personal Statement
 
@@ -29,18 +29,24 @@ These qualities, combined with my energetic approach, enable me to contibute pos
 - babies age 1 to 5 years
 - old parents
 
- # Education 
+ # Education
+
+ ### University
+ 
+ - Name: CHITECHMA
+- Location: Buea 
+
+ 
+
+
  ## Certification
 
  1. **Ordinary Level**
- - School; **Martin Luther King** 
- - Location; Bafoussam
- - Date; 2021 
+ - School: **Martin Luther King** 
+ - Location: Bafoussam
+ - Date: 2021 
  2. **Advance Level** 
- - School; **Saint Anns High School**
- - Location; Limbe 
- - Date; 2023
-
- ## Project Title
- **My CV** 
-
+ - School: **Saint Anns High School**
+ - Location: Limbe 
+ - Date: 2023
+ 
